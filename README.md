@@ -31,7 +31,8 @@ This repository serves as a resource for understanding, implementing, and experi
 ## Getting Started
 **Clone the Repository**: Start by cloning this repository to your local machine.
  Please note that RIP is less commonly used in modern networks, and other routing protocols like OSPF and BGP are often preferred. However, RIP can be a valuable tool for learning about routing.
-**Contributing**
+
+## **Contributing**
 We welcome contributions to this repository. If you have suggestions, improvements, or would like to add support for additional languages or features, please open an issue or a pull request.
 
 Before contributing, please read our Contribution Guidelines.
